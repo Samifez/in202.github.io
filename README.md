@@ -5,4 +5,4 @@ cours <http://defeo.lu/in202>.
 
 Les [réglages, c'est par là](../../settings).
 
-[Éditez ce fichier en cliquant ici](../../edit/master/README.md).
+[Éditez ce fichier en cliquant ici:](../../edit/master/README.md).
